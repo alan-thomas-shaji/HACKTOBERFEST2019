@@ -1,5 +1,6 @@
-print("Helloo to all hacktober fest contributtors");
+print("Helloo to all hacktober fest contributtors")
 a=input("hi")
 if "hey" in a:
-  print(" bye")
-  
+  print(" hello")
+ else:
+   print("bye")
