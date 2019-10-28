@@ -4,4 +4,4 @@ if "hey" in a or "hi" in a:
   print(" hello")
  else:
    print("bye")
-   print("you're rude)
+   print("you're rude")
