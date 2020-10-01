@@ -2,9 +2,12 @@
 A repo created exclusively for hacktoberfest 2019
 
 
-#contributer 
+#contributer
 shruti santosh [hello] https://github.com/shruti-santosh
 
 
 #contributer
 gloria thomas [new] https://github.com/gloria2000
+
+#contributer
+Arjun K S [Github] https://github.com/Arjun-K-S
