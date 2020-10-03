@@ -2,11 +2,11 @@ print("Helloo to all hacktober fest contributtors")
 
 a=input("hi")
 if "hey" in a or "hi" in a:
-  print(" hello")
+  print(" Hello")
  else:
-   print("bye")
-   print("you're rude")
+   print("Bye")
+   print("You're rude")
 
-a=input("hi, what's your name")
+a=input("Hi, what's your name")
 print("ayin")
 
