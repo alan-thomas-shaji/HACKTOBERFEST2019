@@ -20,6 +20,6 @@ twitter:Arjun_Sivadas
 Anushree Vinod[Hey] https://github.com/anushree-vinod
 Simplicity is the soul of efficiency.
 
-#contributer
+#contributor
 Neha Ajith https://github.com/neha-ajith
 Life succs.
